@@ -42,5 +42,5 @@ This project is licensed under the **APACHE 2.0 License**. See the [LICENSE](LIC
 
 <p align="center">
   Organization &middot;&nbsp; <a href="https://github.com/Star-Sync">Star-Sync Organization</a> &nbsp;&middot;&nbsp;
-  GitHub <a href="https://github.com/Star-Sync/ss-deploy">Satellite Scheduler Deployment</a> &nbsp;&middot;&nbsp;
+  GitHub <a href="https://github.com/Star-Sync/ss-deploy">Satellite Scheduler Deployment</a>
 </p>
